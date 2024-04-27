@@ -74,10 +74,10 @@ $ docker compose down -v
 
 Prints:
 
-![Image 1]("./images/image-1.png")
-![Image 2]("./images/image-2.png")
-![Image 3]("./images/image-3.png")
-![Image 4]("./images/image-4.png")
-![Image 5]("./images/image-5.png")
-![Image 6]("./images/image-6.png")
-![Image 7]("./images/image-7.png")
+![Image 1]("images/image-1.png")
+![Image 2]("images/image-2.png")
+![Image 3]("images/image-3.png")
+![Image 4]("images/image-4.png")
+![Image 5]("images/image-5.png")
+![Image 6]("images/image-6.png")
+![Image 7]("images/image-7.png")
